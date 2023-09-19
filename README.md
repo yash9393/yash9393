@@ -1,4 +1,4 @@
-[![MasterHead] (https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)]
+<img align="centre" alt="coding" width="1200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hi 👋, I'm Yashraj Chavan</h1>
 <h3 align="center">LEARNER | PROGRAMER | DEVELOPER</h3>
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
